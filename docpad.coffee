@@ -44,7 +44,6 @@ docpadConfig = {
 				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js",
 				"/scripts/script.js",
-				"/vendor/twitter-bootstrap/js/collapse.js"
 			]
 
 
