@@ -12,16 +12,10 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://website.com"
-
-			# Here are some old site urls that you would like to redirect from
-			oldUrls: [
-				'www.website.com',
-				'website.herokuapp.com'
-			]
+			url: "http://www.arduinocapetown.co.za"
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Arduino Cape Town"
 
 			# The website description (for SEO)
 			description: """
@@ -34,10 +28,10 @@ docpadConfig = {
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Roger Saner"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "roger@burningdog.co.za"
 
 			# Styles
 			styles: [
@@ -49,7 +43,8 @@ docpadConfig = {
 			scripts: [
 				"//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
 				"//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js",
-				"/scripts/script.js"
+				"/scripts/script.js",
+				"/vendor/twitter-bootstrap/js/collapse.js"
 			]
 
 
