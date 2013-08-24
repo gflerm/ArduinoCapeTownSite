@@ -1,0 +1,33 @@
+a,
+a:link {
+  cursor: pointer;
+}
+body {
+  padding-top: 60px;
+}
+table tfoot th,
+table tbody th {
+  border-top: 1px solid #ddd;
+}
+.navbar {
+  min-height: 80px;
+}
+.navbar-brand {
+  text-indent: -9999px;
+  background-image: url("/images/logo.png");
+  width: 246px;
+  height: 80px;
+}
+.navbar-inverse {
+  background-color: #09949b;
+  border-color: #d6f4f5;
+}
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+.navbar-inverse .navbar-brand:hover {
+  color: #d6f4f5;
+}
+.navbar-inverse .navbar-brand:focus {
+  color: #d6f4f5;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Arduino Cape Town</title>
+	<link href="http://www.arduinocapetown.co.za/atom.xml" rel="self"/>
+	<link href="http://www.arduinocapetown.co.za"/>
+	<updated>2013-08-24T13:20:55.678Z</updated>
+	<id>http://www.arduinocapetown.co.za</id>
+	<author>
+		<name>Roger Saner</name>
+		<email>roger@burningdog.co.za</email>
+	</author>
+
+	
+</feed>
