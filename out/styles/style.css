@@ -4,6 +4,7 @@ a:link {
 }
 body {
   padding-top: 60px;
+  background: url("/images/background.png");
 }
 table tfoot th,
 table tbody th {
@@ -30,4 +31,39 @@ table tbody th {
 }
 .navbar-inverse .navbar-brand:focus {
   color: #d6f4f5;
+}
+.jumbotron {
+  background-color: #d6f4f5;
+}
+ul.social {
+  list-style-type: none;
+}
+ul.social li {
+  display: inline;
+  height: 20px;
+}
+ul.social li a {
+  display: block;
+  float: left;
+  text-indent: -9999px;
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  padding: 0;
+}
+.social a {
+  background-position: 50% 50%;
+  background-repeat: no-repeat no-repeat;
+}
+.social a#arduino {
+  background-image: url("/images/icons/icon_arduino.png");
+}
+.social a#facebook {
+  background-image: url("/images/icons/icon_facebook.png");
+}
+.social a#google {
+  background-image: url("/images/icons/icon_google_plus.png");
+}
+.social a#twitter {
+  background-image: url("/images/icons/icon_twitter.png");
 }
