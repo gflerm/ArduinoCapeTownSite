@@ -127,6 +127,7 @@ docpadConfig = {
 					res.redirect(newUrl+req.url, 301)
 				else
 					next()
+	watchOptions: preferredMethods: ['watchFile','watch']
 }
 
 
